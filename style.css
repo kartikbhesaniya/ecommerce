@@ -12,6 +12,10 @@
     cursor: pointer;
 }
 
+.sac {
+    margin: 1px 1px;
+}
+
 a:hover {
     color: rgb(243, 143, 68);
     cursor: pointer;
@@ -112,6 +116,23 @@ a:hover {
         display: flex;
         text-align: center;
     }
+
+    
+    .look {
+        font-size: 35px;
+        font-family: 'Times New Roman'
+    }
+    .get {
+        display: flex;
+        font-family: 'Times New Roman';
+        font-size: 35px;
+        display: flex;
+        text-align: center;
+        justify-content: center;
+        padding: 2px 2px;
+        text-align: center;
+        color: #000000;
+    }
 }
 
 /* @media (min-width: 768px) {
@@ -127,9 +148,22 @@ a:hover {
         text-align: center;
     }
 
-    .Explore{
+    .get {
+        display: flex;
+        font-family: 'Times New Roman';
+        font-size: 30px;
+        display: flex;
+        text-align: center;
+        justify-content: center;
+        padding: 2px 2px;
+        text-align: center;
+        color: #000000;
+    }
+
+    .Explore {
         padding: 14px 12px;
     }
+
     .px {
         padding-left: 1rem;
         padding-right: 1rem;
