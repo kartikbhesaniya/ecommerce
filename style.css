@@ -127,6 +127,14 @@ a:hover {
         text-align: center;
     }
 
+    .Explore{
+        padding: 14px 12px;
+    }
+    .px {
+        padding-left: 1rem;
+        padding-right: 1rem;
+    }
+
     .get {
         display: flex;
         font-family: 'Times New Roman';
@@ -140,7 +148,7 @@ a:hover {
     }
 
     .look {
-        font-size: 32px;
+        font-size: 30px;
         font-family: 'Times New Roman'
     }
 
